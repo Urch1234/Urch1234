@@ -1,8 +1,11 @@
 🚀 About Me
 
-Hi there! I'm Ernest, an Agile Software Engineer passionate about building efficient and scalable web applications
+Hi there!
+
+I'm Ernest, an Agile Software Engineer passionate about building efficient and scalable web applications
 using Python, Django, FastAPI, and React. I specialize in backend development while seamlessly integrating modern 
 frontend frameworks to create dynamic user experiences.
+
 🛠 Expertise
 
     Python & Web Development: Proficient in Django, FastAPI, and React, crafting scalable and high-performance applications.
