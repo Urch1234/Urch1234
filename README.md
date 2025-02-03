@@ -22,8 +22,8 @@ frontend frameworks to create dynamic user experiences.
 
 I'm excited to work on Python- and React-related projects. If you have an idea or need assistance, let’s connect and build 
 something great together!
-📬 Get in Touch
 
+📬 Get in Touch
 
 📧 **Email:** [Email Me](mailto:iernest61@gmail.com)  
 🔗 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/uchenna-ihezie-43b89094/)
